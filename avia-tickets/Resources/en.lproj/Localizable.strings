@@ -1,0 +1,61 @@
+/* 
+  Localizable.strings
+  avia-tickets
+
+  Created by Andrey on 06/04/2021.
+  
+*/
+
+// TabBarController
+
+"search_tab" = "Search";
+"map_tab" = "Price map";
+"favorites_tab" = "Favourites";
+
+
+// MainViewController
+
+"main_from" = "From";
+"main_to" = "To";
+"main_search" = "Find";
+
+
+// FirstViewController
+
+"about_app_header" = "ABOUT";
+"tickets_header" = "AIR TICKETS";
+"map_price_header" = "PRICE MAP";
+"favorites_header" = "FAVOURITES";
+
+"about_app_describe" = "Flight search application";
+"tickets_describe" = "Find the cheapest flights";
+"map_price_describe" = "View the price map";
+"favorites_describe" = "Save selected tickets to favourites";
+
+"next_button" = "NEXT";
+"done_button" = "DONE";
+
+
+// TicketsViewController
+
+"tickets_title" = "Tickets";
+"favourites_title" = "Favourites";
+"from_map" = "From map";
+"from_search" = "From search";
+"add_to_favorite" = "Add to favourites";
+"remove_from_favorite" = "Remove from favourites";
+"remind_me" = "Remind";
+"ticket_reminder" = "Ticket reminder";
+"notification_will_be_sent" = "Notification to be sent - %@";
+"success" = "Success";
+
+// Alerts
+
+"error" = "Alert";
+"tickets_not_found" = "No tickets found for this route";
+"close" = "Close";
+"not_set_place_arrival_or_departure" = "You need to specify the place of departure and place of arrival";
+"actions_with_tickets" = "Actions with tickets";
+"actions_with_tickets_describe" = "What should be done with the selected ticket?";
+"not_determine_current_city" = "Could not determine the current city!";
+
